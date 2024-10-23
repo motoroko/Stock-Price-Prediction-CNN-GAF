@@ -17,3 +17,11 @@ Prediksi harga saham adalah tugas yang menantang karena kompleksitas dan volatil
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/motoroko/Stock_Price_Prediction_Using_CNN_GAF.git
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah Apache License 2.0.
+
+## Kontak
+
+Jika Anda memiliki pertanyaan atau umpan balik, jangan ragu untuk menghubungi saya di blograuf.kr@gmail.com
